@@ -1,0 +1,1 @@
+This repository implements a Falcon 9 success rate Prediction System for SpaceX, addressing factors that impact on success rate. Using machine learning to predict launch success rate. It includes EDA, feature engineering, model training, and evaluation.
